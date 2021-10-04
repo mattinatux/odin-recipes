@@ -1,0 +1,19 @@
+/* styles.css */
+
+.index {
+    color: yellow;
+    background-color: black;
+}
+
+.headingStrong {
+    font-weight: bolder;
+    color: red;
+}
+
+.headingWeak {
+    font-weight:lighter
+}
+
+.index.headingStrong {
+    background-color: coral;
+}
