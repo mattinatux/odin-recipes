@@ -1,5 +1,9 @@
 /* styles.css */
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .index {
     color: yellow;
     background-color: black;
